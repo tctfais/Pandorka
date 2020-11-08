@@ -34,5 +34,14 @@ namespace Pandorka
                 DestinationFolderTextBox.Text = fbd.SelectedPath;
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrEmpty(FolderWithGamesTextBox.Text) || string.IsNullOrEmpty(DestinationFolderTextBox.Text)) {
+                MessageBox.Show("Choose all path!");
+                return;
+            }
+
+        }
     }
 }
