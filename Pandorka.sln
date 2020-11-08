@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pandorka", "Pandorka\Pandorka.csproj", "{EB5478F8-6888-4BFC-B9BC-0593057561F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5478F8-6888-4BFC-B9BC-0593057561F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5478F8-6888-4BFC-B9BC-0593057561F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5478F8-6888-4BFC-B9BC-0593057561F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5478F8-6888-4BFC-B9BC-0593057561F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {748220B1-4CE3-4BD3-9DB0-6997924EE0AB}
+	EndGlobalSection
+EndGlobal
